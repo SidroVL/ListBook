@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965119245195",
+    "firebase_url": "https://ionframe-4eee9.firebaseio.com",
+    "project_id": "ionframe-4eee9",
+    "storage_bucket": "ionframe-4eee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965119245195:android:9fbaba27bf5f46c8",
+        "android_client_info": {
+          "package_name": "IonFrame1.Prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965119245195-f1h89dr2gjt4sjpeecj1ei3uqn7ror02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHDMcziZ9FKwD2zdTuJ8DEf8vVqtqxHZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
